@@ -1,4 +1,4 @@
-'''Algoritmo capaz de calcular o desempenho do candidato no Vestibular UEM'''
+'''Algoritmo capaz de calcular o desempenho de um ou mais candidatos no Vestibular UEM'''
 
 
 from dataclasses import dataclass
